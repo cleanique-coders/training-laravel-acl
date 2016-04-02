@@ -1,0 +1,13 @@
+bootstrap
+storage
+tests
+vendor
+database
+public
+/app/Console
+/app/Events
+/app/Exceptions
+/app/Jobs
+/app/Listeners
+/app/Policies
+/app/Providers
